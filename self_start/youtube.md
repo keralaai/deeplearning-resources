@@ -1,0 +1,27 @@
+# Curated list of youtube videos for deeplearning beginners
+
+##### Pre-requisites:
+
+* Programming experience in python
+
+----
+
+
+## Numpy
+
+
+> "What I cannot create, I do not understand" - Richard Feynman
+
+While it's possible to start your deeplearning journey with high level libraries like Tensorflow and Keras, it is highly recommended that you get your basics right. You don't fully understand an algorithm unless you can implement it from scratch.
+
+Machine learning algorithms operate on vectors, matrices and arrays of higher dimensions. In python land, we manipulate arrays using a library called Numpy. In fact, NumPy is the fundamental package for scientific computing with Python. A good grasp of ndarrays and the numpy api will allow you to implement any machine learning algorithm from scratch.
+
+[![Python: NumPy | Numerical Python Arrays Tutorial](http://img.youtube.com/vi/8Mpc9ukltVA/0.jpg)](http://www.youtube.com/watch?v=8Mpc9ukltVA "Python: NumPy | Numerical Python Arrays Tutorial")
+
+## Neural Networks
+
+If you have come here, you probably already know what neural networks are. The following [Welch Labs](http://www.welchlabs.com/) videos from 2014 is the most comprehensive (and beautiful) tutorial on neural networks I could find on youtube:
+
+[![Neural Networks Demystified](http://img.youtube.com/vi/bxe2T-V8XRs/0.jpg)](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU "Neural Networks Demystified")
+
+## 

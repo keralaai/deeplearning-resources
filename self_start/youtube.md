@@ -29,3 +29,11 @@ If you have come here, you probably already know what neural networks are. The f
 Now that you know how to implement a neural network from scratch (good job btw), it's time to get started with high level deeplearning libraries. But which one? There are plenty to choose from; Tensorflow, Keras, Pytorch, CNTK, MxNet.. Let's ask my main man [Siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A):
 
 [![Keras Explained](http://img.youtube.com/vi/j_pJmXJwMLA/0.jpg)](http://www.youtube.com/watch?v=j_pJmXJwMLA "Keras Explained")
+
+## Tensorflow
+
+Wow your still here! If you feel you still need a bit more fine control over your graphs checkout this [Tensorflow for Deeplearning Research](http://web.stanford.edu/class/cs20si "course website") course (CS20). Unfortunately the courses are not recorded since this is a student initiated course but going through the slides and doing the assignments in github will be enough. 
+
+For those of you who want videos here is a playlist where Labhesh Patel goes through the slides. Do note that this video is based on the same course that was taught in 2017. [|video|](https://www.youtube.com/watchv=&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg)
+
+[![Tensorflow for Deeplearning Research](http://img.youtube.com/vi/g-EvyKpZjmQ/0.jpg)](https://www.youtube.com/watch?v=g-EvyKpZjmQ&list=PLIDllPt3EQZoS8gCP3cw273Cq9puuPLTg "Tensorflow for Deeplearning Research")

@@ -3,6 +3,10 @@ import numpy as np
 a=np.array([(1,2,3),(4,5,6),(7,8,9)])
 print("The array :\n{}\n\n".format(a))
 
+print(a.shape)
+print(a.size)
+print(a.ndim)
+
 print(a.sum()) #returns sum of all elements
 print(a.sum(axis=0)) #sum all columns
 print(a.sum(axis=1))  #sum all rows
@@ -17,22 +21,29 @@ print(a)
 print("reshaped array")
 print(a.reshape(2,5))
 
-
 print("\n Operations")
 a=np.array([(1,2,3),(4,5,6),(7,8,9)])
 b=np.array([(1,2,3),(4,5,6),(7,8,9)])
 
 print("Logical")
 print(a<5)
-print("Arithematic")
+print("\n\nArithematic")
 print(" Addition: \n {} \n\n Multiplication : \n{} \n\n Division :\n{} \n\n Subtraction:\n{}"
 .format(a+b,a*b,a/b,a-b))
+
+print("\n\nstacking: \n")
+print(np.vstack((a,b)))
+print(np.hstack((a,b)))
 
 
 print("\n\n\n Variance:")
 print(a.var())
 print("\n\n\n Standard deviation:")
 print(a.std())
+print("\n\n\n exponential:")
+print(np.exp(a))
+print("\n\n\n Log:")
+print(np.log(a))
 
 
 print("\n\n\n Randomshuffle:")

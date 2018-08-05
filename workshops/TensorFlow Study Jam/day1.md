@@ -220,4 +220,3 @@ Tensorflow consist of,
 
 
 
-https://bit.ly/2KrnCJ5

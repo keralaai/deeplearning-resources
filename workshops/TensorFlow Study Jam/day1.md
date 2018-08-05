@@ -8,6 +8,7 @@
 3. Training and Testing sets
 4. Logistic Regression
 5. First Steps with Tensorflow
+6. Tasks
 
 ## Intro to machine learning
 
@@ -217,6 +218,10 @@ Tensorflow consist of,
 | tf.layers/tf.losses/tf.metrics  | Libraries for common model components.|
 | TensorFlow	                    | Lower-level APIs                      |
 
+## Tasks
 
+1. Make changes and try different hyper-parameters, learning rate and number of iterations in train_model() function to get a model with better accuracy.
+
+2. Write another function ```test_model()``` in regression.py for testing the model with a new input.
 
 

@@ -21,3 +21,5 @@ print("\n Numpy array : \n {} ".format(np_array))
 
 print('''\n As u can see we just needed two lines to create a Numpy array while it took  nested loops in the case of lists
 also ''')
+
+

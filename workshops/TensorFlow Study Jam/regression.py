@@ -79,7 +79,7 @@ def train_model(learning_rate, steps, batch_size, input_feature="X"):
     root_mean_squared_errors.append(root_mean_squared_error)
 
 
-  print("Model training finished.")
+  print("Model training finished! ")
   print("Final RMSE (on training data): %0.2f" % root_mean_squared_error)
   test_input_fn = lambda: my_input_fn({'X':[53]}, [0], num_epochs=1, shuffle=False)
   predictions = linear_regressor.predict(input_fn=test_input_fn)

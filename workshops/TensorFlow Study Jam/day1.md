@@ -222,6 +222,6 @@ Tensorflow consist of,
 
 1. Make changes and try different hyper-parameters, learning rate and number of iterations in train_model() function to get a model with better accuracy.
 
-2. Write another function ```test_model()``` in regression.py for testing the model with a new input.
+2. Write another function ```test_model()``` in [regression.py](https://github.com/GopikrishnanSasikumar/deeplearning-resources/blob/master/workshops/TensorFlow%20Study%20Jam/regression.py) for testing the model with a new input.
 
 

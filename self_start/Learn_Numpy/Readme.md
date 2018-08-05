@@ -64,7 +64,7 @@ Source: [Docs](https://docs.scipy.org/doc/numpy-1.10.1/user/basics.types.html#ar
     a[0][1]  #both return the same element (The second element of the first row)
     a[0,1]   
 
-see more [examples](Numpy_Basics/Reading_Arrays) on getting specific set of elements based on conditions in [Reading Arrays](Numpy_Basics/Reading_Arrays)
+see more [examples](Numpy_Basics/Reading_Arrays.py) on getting specific set of elements based on conditions in [Reading Arrays](Numpy_Basics/Reading_Arrays.py)
 
 
 #### Basic Operations

@@ -210,10 +210,14 @@ Tensorflow consist of,
 - A runtime that executes the distributed graph
 
 ### Tensorflow hierarchy
---------------------------------------------------------------------------|
+
+|                                 |                                       |
+|---------------------------------|---------------------------------------|
 | Estimator (tf.estimator)        | High-level, OOP API.                  |  
 | tf.layers/tf.losses/tf.metrics  | Libraries for common model components.|
-| TensorFlow	                    |   Lower-level APIs                    |
+| TensorFlow	                    | Lower-level APIs                      |
+
+
 
 
 https://bit.ly/2KrnCJ5

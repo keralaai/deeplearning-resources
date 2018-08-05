@@ -78,4 +78,4 @@ see more [examples](Numpy_Basics/Reading_Arrays.py) on getting specific set of e
     a.sum(axis=0) #sum all columns
     a.sum(axis=1)  #sum all rows
 
-More operations : [Basic Operations](Numpy_Basics/Basic_operations)
+More operations : [Basic Operations](Numpy_Basics/Basic_operations.py)

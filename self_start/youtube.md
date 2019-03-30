@@ -24,6 +24,10 @@ If you have come here, you probably already know what neural networks are. The f
 
 [![Neural Networks Demystified](http://img.youtube.com/vi/bxe2T-V8XRs/0.jpg)](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU "Neural Networks Demystified")
 
+Yet another video series explaining neural networks is by 3Blue1Brown's YouTube channel. The MNIST hand written digit classifier is used as the example to explain how neural networks work. MNIST digit classification is considered as a "Hello World" program in Machine Learning.
+
+[![Neural Network Series] (https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
 ## Keras
 
 Now that you know how to implement a neural network from scratch (good job btw), it's time to get started with high level deeplearning libraries. But which one? There are plenty to choose from; Tensorflow, Keras, Pytorch, CNTK, MxNet.. Let's ask my main man [Siraj](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A):
